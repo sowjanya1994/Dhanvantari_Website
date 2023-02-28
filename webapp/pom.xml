@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>venkateswararao</groupId>
+    <groupId>wipro</groupId>
     <artifactId>sowjanya</artifactId>
     <version>1994.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
